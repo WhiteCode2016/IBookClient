@@ -1,6 +1,6 @@
 package com.example.white.ibookclient.http;
 
-import com.example.white.androidbasic.beans.IBookInfo;
+import com.example.white.ibookclient.beans.IBookInfo;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

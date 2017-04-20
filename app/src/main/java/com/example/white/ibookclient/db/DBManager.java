@@ -3,7 +3,7 @@ package com.example.white.ibookclient.db;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import com.example.white.androidbasic.beans.IBookInfo;
+import com.example.white.ibookclient.beans.IBookInfo;
 
 import java.util.ArrayList;
 

@@ -15,9 +15,9 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.Button;
 import android.widget.ListView;
-import com.example.white.androidbasic.beans.IBookInfo;
-import com.example.white.androidbasic.db.DBManager;
-import com.example.white.androidbasic.db.MyAdapter;
+import com.example.white.ibookclient.beans.IBookInfo;
+import com.example.white.ibookclient.db.DBManager;
+import com.example.white.ibookclient.db.MyAdapter;
 
 import java.util.ArrayList;
 

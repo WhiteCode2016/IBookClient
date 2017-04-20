@@ -9,8 +9,8 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
-import com.example.white.androidbasic.beans.IBookInfo;
-import com.example.white.androidbasic.db.DBManager;
+import com.example.white.ibookclient.beans.IBookInfo;
+import com.example.white.ibookclient.db.DBManager;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

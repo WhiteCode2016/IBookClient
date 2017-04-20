@@ -5,8 +5,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import com.example.white.androidbasic.R;
-import com.example.white.androidbasic.beans.IBookInfo;
+import com.example.white.ibookclient.R;
+import com.example.white.ibookclient.beans.IBookInfo;
 
 import java.util.ArrayList;
 
